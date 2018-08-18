@@ -1,0 +1,4 @@
+dn:uid=azulbukh,ou=february,ou=2018,ou=people,dc=unit,dc=ua
+changetype: modify
+add: mobile
+mobile: +7 707 789 30 54

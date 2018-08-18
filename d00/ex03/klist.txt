@@ -1,0 +1,6 @@
+Credentials cache: API:5954
+        Principal: azulbukh@UNIT.UA
+
+  Issued                Expires               Principal
+Feb  5 16:47:07 2018  Feb  6 02:47:07 2018  krbtgt/UNIT.UA@UNIT.UA
+Feb  5 16:47:09 2018  Feb  6 02:47:07 2018  HTTP/nfs.unit.ua@UNIT.UA
